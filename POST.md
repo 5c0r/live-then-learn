@@ -30,8 +30,6 @@
 
 - [Akka, but .NET !](https://getakka.net/articles/intro/what-problems-does-actor-model-solve.html)
 
-
-
 #### 17th April 2020
 
 - https://babeljs.io/docs/en/babel-preset-env
@@ -46,5 +44,10 @@
 
 
 #### 20th April 2020
+- [Valve's Proton progress](https://boilingsteam.com/proton-brought-about-6000-games-to-linux-so-far/)
+
+#### 21th April 2020
+- [AMD new low-cost CPUs](https://www.anandtech.com/show/15736/amd-ryzen-3-3300x-and-ryzen-3-3100-new-low-cost-quadcore-zen-2-processors-from-99)
+- [Combining Event Sourcing and Stateful System](https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems)
 
 
