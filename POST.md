@@ -50,4 +50,11 @@
 - [AMD new low-cost CPUs](https://www.anandtech.com/show/15736/amd-ryzen-3-3300x-and-ryzen-3-3100-new-low-cost-quadcore-zen-2-processors-from-99)
 - [Combining Event Sourcing and Stateful System](https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems)
 
+#### 22nd April 2020
+
+- [PlayStation architecture](https://copetti.org/projects/consoles/playstation/)
+- [Node.js 14 release blog](https://developer.ibm.com/blogs/nodejs-14-ibm-release-blog/)
+- [How Tech can build](https://stratechery.com/2020/how-tech-can-build/)
+
+
 

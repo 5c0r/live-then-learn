@@ -1,4 +1,4 @@
-TODO: ISBN
+TODO: Adding ISBN
 
 ### Tech
 
@@ -13,3 +13,8 @@ TODO: ISBN
 
 - Power of Habits
 - 12 Rules of life
+- The subtle art of not giving a fuck
+- Managing Humans
+- 1984
+- The Paradox of Choice
+- The Mythical Man-Month
