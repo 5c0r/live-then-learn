@@ -56,5 +56,18 @@
 - [Node.js 14 release blog](https://developer.ibm.com/blogs/nodejs-14-ibm-release-blog/)
 - [How Tech can build](https://stratechery.com/2020/how-tech-can-build/)
 
+#### 23rd April 2020
+- [Iphone SE](https://daringfireball.net/2020/04/the_2020_iphone_se)
 
 
+#### 24th April - 26th April 2020
+- [Amazon AppFlow](https://aws.amazon.com/appflow/)
+- [XUbuntu 20 released](https://xubuntu.org/news/xubuntu-20-04-released/)
+- [Your Macbook runs hot , plug the power charge to the right](https://apple.stackexchange.com/questions/363337/how-to-find-cause-of-high-kernel-task-cpu-usage/363933)
+
+- [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
+- [Career advice for people with Baaad Luck](https://news.ycombinator.com/item?id=22960225) - It's also good reading through the comments ;)
+- [Exploiting Productivity Momentum](https://commoncog.com/blog/exploiting-productivity-momentum/)
+- [What I wished more develops knew about DBs](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+- [Agile’s Early Evangelists Wouldn’t Mind Watching It Die](https://builtin.com/software-engineering-perspectives/lean-agile-methodology-software-engineering)
+- [Game Engines!](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)
