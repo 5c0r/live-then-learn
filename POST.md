@@ -71,3 +71,10 @@
 - [What I wished more develops knew about DBs](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 - [Agile’s Early Evangelists Wouldn’t Mind Watching It Die](https://builtin.com/software-engineering-perspectives/lean-agile-methodology-software-engineering)
 - [Game Engines!](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74)
+
+
+#### 27th April - 30th April 2020
+- [Secret of Software Success](https://billwadge.wordpress.com/2020/04/25/the-secret-of-software-success/)
+- [Why luck matters more than you might think](https://www.theatlantic.com/magazine/archive/2016/05/why-luck-matters-more-than-you-might-think/476394/)
+- [What I wish I knew about React](https://bitsofco.de/what-i-wish-i-knew-about-react/)
+- [iPhone SE - The One Eyed King](https://blog.halide.cam/iphone-se-the-one-eyed-king-96713d65a3b1)
