@@ -78,3 +78,9 @@
 - [Why luck matters more than you might think](https://www.theatlantic.com/magazine/archive/2016/05/why-luck-matters-more-than-you-might-think/476394/)
 - [What I wish I knew about React](https://bitsofco.de/what-i-wish-i-knew-about-react/)
 - [iPhone SE - The One Eyed King](https://blog.halide.cam/iphone-se-the-one-eyed-king-96713d65a3b1)
+
+#### Wappu - 4th May 2020
+- [Oracle -> PostGres](https://rolkotech.blogspot.com/2020/05/oracle-vs-postgresql.html)
+- [Startup financial models](https://www.stephnass.com/blog/startup-financial-model)
+- [List of code to start a SaaaaS](https://nodewood.com/blog/the-huge-list-of-code-you-need-to-write-to-start-a-saas/)
+- [What to do when losing Google account](https://blog.viktomas.com/posts/losing-google-account/)
