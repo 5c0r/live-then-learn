@@ -1,4 +1,4 @@
-TODO: Adding ISBN
+TODO: Adding ISBN/Urls
 
 ### Tech
 
@@ -12,12 +12,14 @@ TODO: Adding ISBN
 - Hackers & Painters: Big Ideas from the Computer Age
 - Versioning in an Event Sourced system
 - Software Architecture for Developers
+- Release It!
 
 ### Non-Tech
 
 - Power of Habits
 - Algorithms to live by
 - The Systems Thinker
+- Thinking Fast & Slow
 - Principles
 - 12 Rules of life
 - The subtle art of not giving a fuck
@@ -30,3 +32,4 @@ TODO: Adding ISBN
 - Mastery
 - Win Bigly
 - Humans vs Computers
+- 

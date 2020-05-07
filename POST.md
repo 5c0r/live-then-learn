@@ -84,3 +84,18 @@
 - [Startup financial models](https://www.stephnass.com/blog/startup-financial-model)
 - [List of code to start a SaaaaS](https://nodewood.com/blog/the-huge-list-of-code-you-need-to-write-to-start-a-saas/)
 - [What to do when losing Google account](https://blog.viktomas.com/posts/losing-google-account/)
+
+
+#### 5th May 2020- 7th May 2020
+- [Leaving Amazon](https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon)
+- [Dating App Fail](https://push32.com/post/dating-app-fail/#linkedin-job-details)
+- [B**tplug.io](https://buttplug.io/)
+- [Apple WWDC @June 22th](https://www.apple.com/newsroom/2020/05/apple-to-host-virtual-worldwide-developers-conference-beginning-june-22/)
+- [Surface Stuffs !](https://blogs.windows.com/devices/2020/05/06/introducing-surface-go-2-surface-book-3-surface-headphones-2-and-surface-earbuds/)
+- [Zoom acquired Keybase](https://blog.zoom.us/wordpress/2020/05/07/zoom-acquires-keybase-and-announces-goal-of-developing-the-most-broadly-used-enterprise-end-to-end-encryption-offering/)
+- [Microsoft's GitHub account allegedly hacked](https://www.bleepingcomputer.com/news/security/microsofts-github-account-allegedly-hacked-500gb-stolen/)
+- [Ryzen Thinkpads](https://www.anandtech.com/show/15772/new-lenovo-thinkpad-range-with-ryzen-4000-4000-pro-mobile)
+- [Beekeeper Studio](https://www.beekeeperstudio.io/)
+- [WinUI](https://microsoft.github.io/microsoft-ui-xaml/)
+- [Deno 0.999](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/)
+- [Firefoxie 76](https://www.mozilla.org/en-US/firefox/76.0/releasenotes/)
