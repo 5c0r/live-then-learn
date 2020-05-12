@@ -9,4 +9,4 @@ If you are a recruiter,or someone who will be interviewing me in the future, som
 - Cloud & DevOps
 - "Year of experience"
 - Bad Software , and how to become one
-- Certifications ? Why
+- Certifications ? Why not
