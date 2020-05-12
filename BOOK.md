@@ -18,6 +18,7 @@ TODO: Adding ISBN/Urls
 
 - Power of Habits
 - Algorithms to live by
+- Dreaming In Code
 - The Systems Thinker
 - Thinking Fast & Slow
 - Principles
@@ -32,4 +33,3 @@ TODO: Adding ISBN/Urls
 - Mastery
 - Win Bigly
 - Humans vs Computers
-- 
