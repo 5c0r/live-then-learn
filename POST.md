@@ -99,3 +99,10 @@
 - [WinUI](https://microsoft.github.io/microsoft-ui-xaml/)
 - [Deno 0.999](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/)
 - [Firefoxie 76](https://www.mozilla.org/en-US/firefox/76.0/releasenotes/)
+
+
+#### 8th May 2020 - 10th May 2020
+- [Write libraries, not frameworks](https://www.brandonsmith.ninja/blog/libraries-not-frameworks)
+- [Facebook Redesign](https://engineering.fb.com/web/facebook-redesign/)
+- [GitHub Codespaces](https://github.com/features/codespaces)
+- [Wirelessly charging electric cars as they drive](https://news.stanford.edu/2020/05/04/wirelessly-charging-electric-cars-drive/)
