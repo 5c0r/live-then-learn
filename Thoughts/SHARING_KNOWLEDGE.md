@@ -1,0 +1,1 @@
+"Good knowledge should be understandable, shareable, consumable" - Me

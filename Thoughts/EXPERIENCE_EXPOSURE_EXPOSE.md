@@ -1,2 +1,14 @@
 "The more you know , the less you know " - The Internet
-"Perhaps I don't understand what I would 
+"Curious was never enough , *number of years* matters" - Any software company , ever ?
+
+
+## What
+
+
+## Why
+
+
+## When
+
+
+## How

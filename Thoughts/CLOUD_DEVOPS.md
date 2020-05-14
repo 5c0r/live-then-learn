@@ -1,0 +1,1 @@
+## My thought on the state of Cloud Services

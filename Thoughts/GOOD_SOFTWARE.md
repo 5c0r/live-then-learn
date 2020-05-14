@@ -1,4 +1,4 @@
-"Good, fast & cheap ? Pick two" - Any hospital in the universe ?
+"Good, Fast & Cheap ? Pick two" - Any hospital in the universe ?
 
 ### What is my definition of good software ?
 

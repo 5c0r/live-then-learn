@@ -1,4 +1,7 @@
-Hello, thank you for visiting my repo
+Hello, thanks for taking a visit to my humble repo. Hopefully you would find something useful here and there :)
+This repo contains :
+- 1% of intelligence
+- 99% of other things, divided equally : pun, bad joke, insight, observation, seriousness, seniority, sympathy, empathy..
 
 
 ## Getting started

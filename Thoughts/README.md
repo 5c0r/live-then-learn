@@ -5,8 +5,11 @@ If you are my coworker/ ex-coworker/ friend, I hope that this will clarify some 
 
 If you are a recruiter,or someone who will be interviewing me in the future, someone who would interested in hiring me, up to be my future colleagues, I hope this would save both of us perhaps some time, so we could both spend our time on better things :)
 
+
 - Microservices
 - Cloud & DevOps
-- "Year of experience"
+- "Years of experience"
 - Bad Software , and how to become one
 - Certifications ? Why not
+- Event Sourcing
+- Testing

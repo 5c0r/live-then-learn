@@ -1,3 +1,3 @@
-"Good girl could go bad. So does Software" - Me
+"Good girl could gone bad. So does Software" - Me
 
 ## 
