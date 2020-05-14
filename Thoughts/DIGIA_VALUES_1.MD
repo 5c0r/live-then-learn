@@ -1,5 +1,11 @@
-## I stand by my work ( Liability - Accountability - Responsibility )
-- Related story (http://thecodelesscode.com/case/101)
+## I stand by my work 
+#### On Accountability, Responsibility and No-Lialibility
+
+Related story (http://thecodelesscode.com/case/101)
+
+
+
+
 
 
 
