@@ -1,0 +1,1 @@
+Sometimes it is usable to only read some part of the books that should/would interest you. 
