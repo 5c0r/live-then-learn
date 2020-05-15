@@ -14,3 +14,8 @@ If you are recruiters,or someone who will be interviewing me in the future, some
 - [I am learning toward building any software](https://github.com/5c0r/live-then-learn/blob/master/Rough_arch/)
 - [Stupidly innovative business/software ideas](https://github.com/5c0r/live-then-learn/blob/master/Bad_ideas/)
 - [Too busy to read ? There are some useful chapters](https://github.com/5c0r/live-then-learn/blob/master/Book_skimmer/)
+
+
+## You would love to discuss about things ?
+
+- Create a GitHub issue!

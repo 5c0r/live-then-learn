@@ -43,3 +43,4 @@ isomorphic-fetch, axios to create http requests
 #### Learn more and further
 - React Native : Now for both Mac and Windows ! (https://reactnative.dev/)
 - NextJS : An opinionated framework to build your next Front-end project
+- GraphQl + Apollo is also something good to learn too! Making you closer to the back-end.
