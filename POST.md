@@ -116,3 +116,8 @@
 - [React Native for Windows and Macs](https://microsoft.github.io/react-native-windows/)
 - [GitHub CLI](https://github.blog/changelog/2020-05-11-github-cli-allows-you-to-close-reopen-and-add-metadata-to-issues-and-pull-requests/)
 - [The logging framework isn't a bottleneck, and other lies your laptop tells you](https://tech.davis-hansson.com/p/tower/)
+
+#### 15th May - 17th May 2020
+- [TypeScript 3.9](https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/)
+- [RecoilJS](https://recoiljs.org/docs/introduction/motivation)
+- [What Uncertainty feels like](https://commoncog.com/blog/what-uncertainty-feels-like/)
