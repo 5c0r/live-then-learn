@@ -5,16 +5,19 @@
 #### Useful stuff while learning/developing with React
 
 ##### Create-React-app
-A very good scaffolding tool for your project
+https://reactjs.org/docs/create-a-new-react-app.html
+
+A very good scaffolding tool for your project. Unless you are a hardcore webpack-scaffolder ( which you are not )
 
 ##### Ajax alternatives
-isomorphic-fetch, axios to create http requests
+- isomorphic-fetch (https://github.com/matthew-andrews/isomorphic-fetch)
+- axios (https://github.com/axios/axios)
 
 ##### State management lib
 
-[Redux](https://redux.js.org/)
-[MobX](https://mobx.js.org/README.html)
-[Recoil, A new challenger ! ](https://recoiljs.org/)
+- [Redux](https://redux.js.org/)
+- [MobX](https://mobx.js.org/README.html)
+- [Recoil, A new challenger ! ](https://recoiljs.org/)
 
 ##### Later fundamentals to learn
 - Hooks, Context API
@@ -30,7 +33,7 @@ isomorphic-fetch, axios to create http requests
 
 ##### Cons
 - You will need to learn state management, asynchronous operation, many others thing. Pick-your-poison experience..
-- "I know how to React" is not the sexiest answer. The 'standard' for React-capable developers are quite unknown, and I am not sure there is the 'best-approach' for this
+- "I know how to React" is not the sexiest answer `to any employer`. The 'standard' for React-capable developers are quite unknown, and I am not sure there is the 'best-approach' for this
 - "More is always less" in terms of choosing the good library that would suit you, your teams and your projects. In fact, there was never a right answer, until *someone* came in and say something, makes you afraid that you made `the wrong choice`
 
 #### Starting points
@@ -38,9 +41,10 @@ isomorphic-fetch, axios to create http requests
 - Functional-Reactive Programming is a [must](https://github.com/5c0r/live-then-learn/blob/master/Thoughts/JAVASCRIPT_FRP.md)
 - https://fullstackopen.com/en/
 - SurviveJS (https://survivejs.com/)
+- React Handbook @FlavioScopes (https://reacthandbook.com/)
 
 
 #### Learn more and further
-- React Native : Now for both Mac and Windows ! (https://reactnative.dev/)
-- NextJS : An opinionated framework to build your next Front-end project
-- GraphQl + Apollo is also something good to learn too! Making you closer to the back-end.
+- React Native : Write once, run everywhere. Now for both Mac and Windows ! (https://reactnative.dev/)
+- NextJS : An opinionated framework to build your next Front-end project (https://nextjs.org/)
+- GraphQl + Apollo is also something good to learn too! Making you closer to the back-end (https://www.apollographql.com/)

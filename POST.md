@@ -121,3 +121,13 @@
 - [TypeScript 3.9](https://devblogs.microsoft.com/typescript/announcing-typescript-3-9/)
 - [RecoilJS](https://recoiljs.org/docs/introduction/motivation)
 - [What Uncertainty feels like](https://commoncog.com/blog/what-uncertainty-feels-like/)
+
+#### 18th - 20th May 2020
+- [Mental models](https://fs.blog/mental-models/)
+- [What Every Software Engineer Should Know about Apache Kafka: Events, Streams, Tables, Storage, Processing, And More](https://www.michael-noll.com/blog/2020/01/16/what-every-software-engineer-should-know-about-apache-kafka-fundamentals/)
+- [Prototyping at Slack](https://slack.engineering/prototyping-at-slack-b1ec3a298226)
+- [Notion is Free](https://www.notion.so/personal)
+- [Windows Package Manager :(](https://devblogs.microsoft.com/commandline/windows-package-manager-preview/)
+- [Linux X DirectX](https://devblogs.microsoft.com/directx/directx-heart-linux/)
+- [Microsoft is bringing Linux GUI apps to Windows 10](https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features)
+
