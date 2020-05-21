@@ -9,4 +9,4 @@ Things will change over time, `git blame` will tell
 - Certifications ? Why not
 - Event Sourcing
 - Testing
-- JavaScript series 
+- JavaScript series ( Node, Angular, React, Vue )

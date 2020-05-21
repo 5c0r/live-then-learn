@@ -131,3 +131,6 @@
 - [Linux X DirectX](https://devblogs.microsoft.com/directx/directx-heart-linux/)
 - [Microsoft is bringing Linux GUI apps to Windows 10](https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features)
 
+- [Remembering why Agile was a big deal](https://jeremydmiller.com/2020/05/19/remembering-why-agile-was-a-big-deal/)
+- [C# 9.0](https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/)
+- [How to Center in CSS](http://howtocenterincss.com/)

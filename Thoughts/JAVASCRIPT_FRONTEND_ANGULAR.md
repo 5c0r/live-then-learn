@@ -32,7 +32,9 @@ In my opinion , it is useful first to learn TypeScript,then the fundamentals of 
 #### Personal opinions
 ##### Angular 2 -> >6 was technically messy for developers
 It was a difficult time to move to Angular 2 , as Angular-CLI was not available at the time
-- DYI webpack.config, 
+- DYI webpack.config
+- No OOTB testing
+- RxJS upgrade needs also code-wise changes
 
 ##### Building Forms with Angular is so good
 Whether it is `ngModel` or `ReactiveForm`, the result is satisfying, you can also built your Custom form with understandable contracts
