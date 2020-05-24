@@ -134,3 +134,16 @@
 - [Remembering why Agile was a big deal](https://jeremydmiller.com/2020/05/19/remembering-why-agile-was-a-big-deal/)
 - [C# 9.0](https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/)
 - [How to Center in CSS](http://howtocenterincss.com/)
+
+#### 21st - 24nd May 2020
+- [On Bullshit :D](https://www.goodreads.com/book/show/385.On_Bullshit)
+- [RabbitMQ](https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq.html)
+- [Roll your own 'Frameworks'](https://blog.startifact.com/posts/roll-your-own-frameworks/)
+
+- [MongoDB’s Data Consistency Claims](https://www.infoq.com/news/2020/05/Jepsen-MongoDB-4-2-6/)
+- [State of Micro-frontend](https://blog.bitsrc.io/state-of-micro-frontends-9c0c604ed13a)
+- https://www.behance.net/gallery/95680519/Martup-Online-Technology-Shop?tracking_source=curated_galleries_interaction
+- [JavaScript: managing events](https://krasimirtsonev.com/blog/article/javascript-managing-events-dispatch-listen)
+- [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
+- [Multi-Noded TimeScaleDB is now 'free'](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
+- [MacOS Catalina: Slow By Design](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)

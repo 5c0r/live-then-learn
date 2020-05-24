@@ -13,6 +13,7 @@ TODO: Adding ISBN/Urls
 - Versioning in an Event Sourced system
 - Software Architecture for Developers
 - Release It!
+- Design It! - From Programmer to Software Architect
 
 ### Non-Tech
 

@@ -39,8 +39,13 @@ It was a difficult time to move to Angular 2 , as Angular-CLI was not available 
 ##### Building Forms with Angular is so good
 Whether it is `ngModel` or `ReactiveForm`, the result is satisfying, you can also built your Custom form with understandable contracts
 
+##### Angular Component Lifecycle is well-thought
+Regardless of what UI library you are using, understanding the Lifecycle could help while building your own UI.
+
 ##### 'Reactivity' is the new norm of Web Development
-With previous knowledge on React, bringing them to Angular was a good experience. With RxJS built-in, Angular does pr
+With previous knowledge on React, bringing them to Angular was a good experience. With RxJS built-in, Angular does provide a good approach to deal with HTTP request, merging, cancelling requests. 
+
+I am not saying that this was not possible before RxJS, but with RxJS , it helps us to understand how the data is flowing.
 
 ##### Try to build your own 'UI component' first
 One mistake that I have made over the past few years is to rely on 3rd-party UI component, while they can make me ship thing faster, things could go broken in unexpected way
@@ -66,9 +71,12 @@ Do not ever extends any Angular component, your component should compose reusabl
 - Not anymore a sexy choice for developers, also contractors, or HR
 
 
-## You are interested in Angular and want to develop further ?
+##### You are interested in Angular and want to develop further ?
 - Awesome-Angular (https://github.com/PatrickJS/awesome-angular)
 - Ionic Framework
 - NativeScript
 
-
+##### People/Website that could be useful
+- Pascal Pretch
+- Strongbrew.io
+- Nate Murray

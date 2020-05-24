@@ -7,11 +7,13 @@ If you are my coworker/ex-coworker/friend, I hope that this will clarify some of
 
 If you are recruiters,or someone who will be interviewing me in the future, someone who would interested in hiring me, up to be my future colleagues, I hope this would save both of us perhaps some time, so we could both spend our time on better things :)
 
+I started this before I even find this #100DaysToOffload . Lucky me xD !
+
 
 ## Getting started
 - [Books that I have read , and may you should too!](https://github.com/5c0r/live-then-learn/blob/master/BOOK.md)
 - [That Temple of Thought](https://github.com/5c0r/live-then-learn/blob/master/Thoughts/)
-- [I am learning toward building any software](https://github.com/5c0r/live-then-learn/blob/master/Rough_arch/)
+- [I am learning toward building any software](https://github.com/5c0r/live-then-learn/blob/master/Moot/)
 - [Stupidly innovative business/software ideas](https://github.com/5c0r/live-then-learn/blob/master/Bad_ideas/)
 - [Too busy to read ? There are some useful chapters](https://github.com/5c0r/live-then-learn/blob/master/Book_skimmer/)
 

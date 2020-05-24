@@ -19,6 +19,12 @@ A very good scaffolding tool for your project. Unless you are a hardcore webpack
 - [MobX](https://mobx.js.org/README.html)
 - [Recoil, A new challenger ! ](https://recoiljs.org/)
 
+##### Styling
+- styled-component (https://styled-components.com/docs/basics)
+
+##### Testing
+- react-testing-library (https://github.com/testing-library/react-testing-library)
+
 ##### Later fundamentals to learn
 - Hooks, Context API
 - React Suspense (https://reactjs.org/docs/concurrent-mode-suspense.html)
