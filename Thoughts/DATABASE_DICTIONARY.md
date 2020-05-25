@@ -1,0 +1,7 @@
+## ACID
+
+
+## CAP
+
+
+## Isolation Level
