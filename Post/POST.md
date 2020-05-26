@@ -147,9 +147,3 @@
 - [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 - [Multi-Noded TimeScaleDB is now 'free'](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 - [MacOS Catalina: Slow By Design](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/)
-
-
-#### 25th May 2020
-- [Challenges with Distributed Systems](https://aws.amazon.com/builders-library/challenges-with-distributed-systems/)
-- [TimeScaleDB- Why and How to use Relational DB instead of NoSQL](https://blog.timescale.com/blog/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c/)
-- [5 Myths in Golang vs Node.js](http://ithare.com/five-myths-used-in-golang-vs-node-js-debate/)
