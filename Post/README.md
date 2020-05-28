@@ -1,0 +1,1 @@
+Moved post to here. Each file is for each day now :D 

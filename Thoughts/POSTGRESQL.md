@@ -17,6 +17,7 @@ TODO: No comparision againts NoSQL ( meaningless )
 - Scalability
 - Easy to develop / deploy
 - Read/Write heavy ( How much write/read do you expect ?)
+- Transaction support , and what at level ?
 - Does it support required data structure/type ? ( jsonb, blob )
 - Supported in Cloud platforms ( Azure, AWS, GCP, Lidl =)) )  // Cloud or Self-hosted ?
 - Open Source 
