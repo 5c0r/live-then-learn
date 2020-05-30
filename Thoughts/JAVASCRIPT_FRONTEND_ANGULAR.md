@@ -1,6 +1,6 @@
 "Do you miss the good ol' Angular ?" - Two-way binding enthusiasts
 
-Angular is one of the first JavaScript front-end framework built with "simple reactivity" a.k.a "two-way binding" in mind.
+Angular is one of the first [[JAVASCRIPT]] front-end framework built with "simple reactivity" a.k.a "two-way binding" in mind.
 
 Firstly know as AngularJS, along with many success along the way, the team decided to develop a new version of Angular, which is what we have known now
 
@@ -27,7 +27,7 @@ NgRx is a state management library for Angular application, with the mindset of 
 - Learn RxJS (https://www.learnrxjs.io/)
 - NgRx (https://ngrx.io/)
 
-In my opinion , it is useful first to learn TypeScript,then the fundamentals of RxJS and [Functional Reactive Programming](https://github.com/5c0r/live-then-learn/blob/master/Thoughts/JAVASCRIPT_FRP.md) 
+In my opinion , it is useful first to learn TypeScript,then the fundamentals of RxJS and [Functional Reactive Programming](https://github.com/5c0r/live-then-learn/blob/master/Thoughts/[[JAVASCRIPT]]_FRP.md) 
 
 #### Personal opinions
 ##### Angular 2 -> >6 was technically messy for developers

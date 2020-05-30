@@ -3,15 +3,15 @@
 
 
 ##### What differences which Svelte has over other front-end frameworks ?
-- Svelte compiles your component into plain JavaScript, while other framework would bring the whole runtime executed in your browser 
+- Svelte compiles your component into plain [[JAVASCRIPT]], while other framework would bring the whole runtime executed in your browser 
 => Smaller "size" , but "better"
 
 
 ##### I would love to learn Svelte . Why ?
-- It is just JavaScript!
+- It is just [[JAVASCRIPT]]!
 - IMHO, A more enhanced JSX
 - Blazing fast
-- Good way to build embedded UI built with JavaScript
+- Good way to build embedded UI built with [[JAVASCRIPT]]
 - Hate React/Angular/people trying to say whichever is better, but would not want to learn Vue
 
 #####  But I will not start using Svelte yet . Why ?

@@ -1,4 +1,4 @@
-"Get a job fast-track. Learn React" - Internet
+"Get a job fast-track. Learn [[JAVASCRIPT]] ja React" - Internet
 
 [ReactJS](https://reactjs.org/) is a library to build user interface, with simplicity and reactivity in mind
 
@@ -44,7 +44,7 @@ A very good scaffolding tool for your project. Unless you are a hardcore webpack
 
 #### Starting points
 - React Documentation (https://reactjs.org/)
-- Functional-Reactive Programming is a [must](https://github.com/5c0r/live-then-learn/blob/master/Thoughts/JAVASCRIPT_FRP.md)
+- Functional-Reactive Programming is a [must](https://github.com/5c0r/live-then-learn/blob/master/Thoughts/[[JAVASCRIPT]]_FRP.md)
 - https://fullstackopen.com/en/
 - SurviveJS (https://survivejs.com/)
 - React Handbook @FlavioScopes (https://reacthandbook.com/)
