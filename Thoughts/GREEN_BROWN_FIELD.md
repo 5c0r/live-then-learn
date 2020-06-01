@@ -1,4 +1,4 @@
-"The grass is greener on the other side" - Idiom
+"The grass is greener on the other side" - Idiom of the cow
 
 ## Green field project
 

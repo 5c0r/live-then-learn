@@ -3,7 +3,7 @@
 
 #### InRiver (https://www.inriver.com/)
 
-TODO: Short-introduction
+TODO: Short-introduction, or maybe look at the feature offering listing..
 
 ##### Quite goood
 - All the implementation are done in C#/.NET. Rest API is included if you would like to write something different than C#/.NET .However, the capability is limited
@@ -25,7 +25,9 @@ TODO: Short-introduction
 - There is no `soft delete` feature , this is likely a small red flag IMNSHO. If your stuffs are gone, they are gone, this might cause problem is outbound extensions is broken or somehow failed to produced deleted output
 - Support will throw in your face iPMC recommendation if you are not using it, for any non-related issue, not sure if that's ZenDesk feature ?
 - Deploying extensions is tedious
-- Inbound/outbound extensions implementation are ~very very~ questionable. IMNSHO, making use of REST/Remote API with (Azure/AWS) Functions should be a better approach, any extensions should be made as *adapter* (Fire-and-forget to Functions). This will not cause any performance issues, but this means more $$ for customers. 
+- Inbound/outbound extensions implementation are ~very very~ questionable. IMNSHO, making use of REST/Remote API with (Azure/AWS) Functions should be a better approach, any extensions should be made as *adapter* (Fire-and-forget to Functions). This will not cause any performance issues, but this means :
+	-	More $$ for customers and development effort
+	-	I see that 80% of the case that we don't heavily needs InRiver Remoting API as REST API is getting better
 - Sometimes it could make you feel like you are working with a legacy 2008-2010 solution
 
 

@@ -8,7 +8,7 @@ Certification is a method of evaluating that one person has participated in any 
 ## Advantages
 
 Certifications would give both you and your employer many advantages:
-
+- Some software vendors would prefer their partner to maintain a sense of partnership 
 - Advantages over other candidates/contractors
 - Brighter LinkedIn
 - Opportunity to learn some specific stuffs that will come to be useful someday
@@ -21,10 +21,10 @@ Certifications would give both you and your employer many advantages:
 - GCP
 - Azure
 - Alibaba Cloud
-- Lidl Cloud ?
+- LIDL Cloud ? When ?
 
 ### Business/Project oriented 
-- Agile/Lean/Scrum
+- Agile/Lean/Scrum 
 - SaFE
 - Azure Data/BI
 
@@ -36,7 +36,7 @@ Certification are basically "a piece of paper" that could prove that you are cap
 
 Example:
 - If a service needs a port to be opened/forwarded , it could be that both inbound/outbound connection needs to be configured in the Firewall Configuration section (i.e: iptables, Windows Firewall..)
-- A certified `$ANY_HOT_STUFF` developer which does not understand the basics of control flows / language features.
+- A certified `$ANY_HOT_STUFF` developer/architect (pun indented) which does not understand the basics of control flows / language features.
 
 
 IMHO, I am againts this kind of certification model, as they are a very falsy and in-accurate way of "filtering out" candidates. Smart employers would not care about these anyway, as they should have the smarter/leaner way of hiring and it is trivial to achieve those in the first months of working.

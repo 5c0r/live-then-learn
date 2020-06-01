@@ -109,7 +109,10 @@ Knowing him for so long ,Idgalf prefer having him decide on what database they s
 - Customers, Marketer love how beautiful and intuitive the UI was. Unfortunately this makes every developers hate him, making the UI become the most complex state machine ever ( Ever heard of State Management ?)
 
 #### The Co-Founder
-TODO
+"I should be the motherf**cking founder"
+
+Wanted of money, fame and power, without any knowledge 
+
 
 #### The startup-founder
 

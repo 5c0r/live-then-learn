@@ -21,6 +21,7 @@ A very good scaffolding tool for your project. Unless you are a hardcore webpack
 
 ##### Styling
 - styled-component (https://styled-components.com/docs/basics)
+- SASS, LESS
 
 ##### Testing
 - react-testing-library (https://github.com/testing-library/react-testing-library)
@@ -28,6 +29,10 @@ A very good scaffolding tool for your project. Unless you are a hardcore webpack
 ##### Later fundamentals to learn
 - Hooks, Context API
 - React Suspense (https://reactjs.org/docs/concurrent-mode-suspense.html)
+
+##### Good to come back later
+- Babel config
+- Own your Webpack configuration
 
 #### Pros and Cons
 

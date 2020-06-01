@@ -1,0 +1,54 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Tag pane": true,
+    "Slides": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Tags",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "a7cb32d21a17276e",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "339f57158c7b7c0d",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Thoughts/JAVASCRIPT_FRONTEND_REACT.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "sideDockWidth": {
+    "left": 374,
+    "right": 300
+  },
+  "lastOpenFiles": [
+    "Thoughts/JAVASCRIPT_FRONTEND_REACT.md",
+    "Thoughts/JAVASCRIPT_TYPESCRIPT.md",
+    "Thoughts/JAVASCRIPT_FRP.md",
+    "Thoughts/JAVASCRIPT_NODEJS.md",
+    "Thoughts/PIM.md"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
+}
