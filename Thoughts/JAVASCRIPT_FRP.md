@@ -8,7 +8,7 @@ Functional Reactive Programming
 - RXJS !! Learn about operators
 
 ##### 100% FRP is a must ! Does that means 85% is half-assed ?
-- 
+- Ensuring immutability ( how could I ever forget this ? )
 
 ## Further reading
 - [Eric Elliot](https://medium.com/@_ericelliott) 
