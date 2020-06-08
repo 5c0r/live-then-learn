@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thoughts/JAVASCRIPT_FRONTEND_REACT.md",
+            "file": "Post/02-05_06_2020.md",
             "mode": "source"
           }
         }
@@ -43,11 +43,11 @@
     "right": 300
   },
   "lastOpenFiles": [
+    "Post/02-05_06_2020.md",
     "Thoughts/JAVASCRIPT_FRONTEND_REACT.md",
     "Thoughts/JAVASCRIPT_TYPESCRIPT.md",
     "Thoughts/JAVASCRIPT_FRP.md",
-    "Thoughts/JAVASCRIPT_NODEJS.md",
-    "Thoughts/PIM.md"
+    "Thoughts/JAVASCRIPT_NODEJS.md"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current"
