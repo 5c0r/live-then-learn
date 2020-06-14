@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Post/02-05_06_2020.md",
+            "file": "Book_skimmer/README.md",
             "mode": "source"
           }
         }
@@ -43,11 +43,11 @@
     "right": 300
   },
   "lastOpenFiles": [
-    "Post/02-05_06_2020.md",
+    "Book_skimmer/README.md",
+    "Book_skimmer/PHILOSOPHY_IN_SOFTWARE_DESIGN.md",
+    "Book_skimmer/PATTERN_OF_ENTERPRISE_APPLICATION.md",
     "Thoughts/JAVASCRIPT_FRONTEND_REACT.md",
-    "Thoughts/JAVASCRIPT_TYPESCRIPT.md",
-    "Thoughts/JAVASCRIPT_FRP.md",
-    "Thoughts/JAVASCRIPT_NODEJS.md"
+    "Post/02-05_06_2020.md"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current"

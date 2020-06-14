@@ -18,6 +18,7 @@ A very good scaffolding tool for your project. Unless you are a hardcore webpack
 - [Redux](https://redux.js.org/)
 - [MobX](https://mobx.js.org/README.html)
 - [Recoil, A new challenger ! ](https://recoiljs.org/)
+- [XState](https://xstate.js.org)
 
 ##### Styling
 - styled-component (https://styled-components.com/docs/basics)
