@@ -13,7 +13,7 @@
   },
   "isSidebarCollapsed": false,
   "isRightSidedockCollapsed": true,
-  "lastOpenSidebarTab": "File explorer",
+  "lastOpenSidebarTab": "Search in files",
   "lastOpenRightSidedockTab": "Tags",
   "theme": "obsidian",
   "workspaceLayout": {
@@ -31,7 +31,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Book_skimmer/README.md",
+            "file": "Post/25-26_05_2020.md",
             "mode": "source"
           }
         }
@@ -43,11 +43,11 @@
     "right": 300
   },
   "lastOpenFiles": [
-    "Book_skimmer/README.md",
-    "Book_skimmer/PHILOSOPHY_IN_SOFTWARE_DESIGN.md",
-    "Book_skimmer/PATTERN_OF_ENTERPRISE_APPLICATION.md",
-    "Thoughts/JAVASCRIPT_FRONTEND_REACT.md",
-    "Post/02-05_06_2020.md"
+    "Post/25-26_05_2020.md",
+    "Post/12-14_06_2020.md.md",
+    "Post/09_12_06_2020.md",
+    "Post/Untitled.md",
+    "Book_skimmer/README.md"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current"
