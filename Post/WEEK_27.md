@@ -1,0 +1,1 @@
+https://blog.anylist.com/2020/06/sign-in-with-apple/
