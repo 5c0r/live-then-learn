@@ -32,4 +32,5 @@ TODO-TODO
 - https://eventuate.io/whyeventsourcing.html
 - https://ookami86.github.io/event-sourcing-in-practice/
 - https://www.goodreads.com/book/show/34327067-versioning-in-an-event-sourced-system
+- https://www.youtube.com/watch?v=PusBGdjgd3U
 - Shameless plug here: https://www.theseus.fi/handle/10024/160444
