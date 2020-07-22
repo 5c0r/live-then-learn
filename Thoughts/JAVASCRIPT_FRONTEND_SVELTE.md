@@ -15,7 +15,7 @@
 - Hate React/Angular/people trying to say whichever is better, but would not want to learn Vue
 
 #####  But I will not start using Svelte yet . Why ?
-- Support for bundling/developing with TypeScript is a WIP . I hope it will be available in the roadmap ['soon-ish'](https://github.com/sveltejs/svelte/issues/4816) (i.e: HMR.. and VSCode)
+- Support for bundling/developing with TypeScript is a WIP . I hope it will be available in the roadmap ['soon-ish'](https://github.com/sveltejs/svelte/issues/4816) (i.e: HMR.. and VSCode) => NO, Svelte <3 TypeScript (https://svelte.dev/blog/svelte-and-typescript)
 - It is basically not backed (in terms of finance and contribution) by FAANG , unlike other popular UI frameworks
 - Hopefully Svelte 3.x would be more stable
 - SSR is there, but still a WIP 
