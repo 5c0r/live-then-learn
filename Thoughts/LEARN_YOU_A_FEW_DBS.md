@@ -14,7 +14,6 @@ My overall thoughts about Relational DBs vs NoSQL database systems
 #### Featured: MongoDB, the good, bad, and ugly marketing -> Moving to somewhere else ?
 - 
 
-
 MongoDB was not so good , up to ...I am not going to use it for further production project
 
 #### PostgreSQL : The battle-tested DB ? -> New one ?
@@ -40,3 +39,7 @@ MongoDB was not so good , up to ...I am not going to use it for further producti
 - SCALE! ( horizontal, vertical ) 
 - Migration
 - Sharding - Partition - Replication
+- ACID
+- CAP
+- Serializable
+- 

@@ -1,5 +1,5 @@
 This should be the place to put my thought/opinion about something. I promised to keep this long and thorough , as I am not good as telling my opinion mostly while being in a conversation.
-Things will change over time, `git blame` will tell
+Things will change over time, `git blame` will tell. Don't take my word if it was too outdated ( 1.5 years ago ?)
 
 
 - Microservices
