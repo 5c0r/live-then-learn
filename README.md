@@ -21,7 +21,7 @@ I started this before I even find this #100DaysToOffload . Lucky me xD !
 ## You would love to discuss about things ?
 
 - Create a GitHub issue!
-
+- Legal concerns ? Perhaps sending an email to me :) . The conversation later will be uploaded here, GDPR applied (personal/company information)
 
 ## Updated 30.05.2020
 - This project is now [Obsidian](https://obsidian.md/) friendly. Feel free to open the project and use Obsidian , with the graph view, you can see quite some related stuff :)
