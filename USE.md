@@ -11,3 +11,11 @@ TODO: URLs!
 - Refined GitHub 
 - OctoTree
 - Autocomplete for GitHub
+
+
+## Terminal
+- ConEmu for Windows
+- Git
+- Sublime Merge!
+- OBS
+-

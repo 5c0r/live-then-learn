@@ -37,7 +37,9 @@ It was a difficult time to move to Angular 2 , as Angular-CLI was not available 
 - RxJS upgrade needs also code-wise changes
 
 ##### Building Forms with Angular is so good
-Whether it is `ngModel` or `ReactiveForm`, the result is satisfying, you can also built your Custom form with understandable contracts
+Whether it is `ngModel` or `ReactiveForm`, the result is satisfying, you can also built your Custom form with understandable contracts.
+
+Again, again and again. If you already had difficult time with HTML implementation of forms, inputs type, you would understand why I personally prefer to throw Angular into building forms :)
 
 ##### Angular Component Lifecycle is well-thought
 Regardless of what UI library you are using, understanding the Lifecycle could help while building your own UI.
