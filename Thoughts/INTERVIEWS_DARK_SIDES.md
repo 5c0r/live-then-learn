@@ -1,4 +1,5 @@
-Tag: winning software interview broken 
+"Most of the interviews are broken. Don't let broken interviews break you" - Me, 2019
+Tags: winning software interview broken cheating bla bla
 
 ## Winning interviews || The dark-side of interviewing process
 
