@@ -36,4 +36,7 @@ TODO: Short-introduction, or maybe look at the feature offering listing..
 I need some experts to discuss about this , of course
 
 #### Decision making
-- Apparently the price is always the first 
+- Apparently the price is always the first criteria to be taken into account. But what about the value PIM does bring to you ?
+- This is another layer between for ERP to any client-facing ( E-Commerce ) , does it facilitate your current process ?
+- How many integration are needed , inbound/outbound ?
+- Can you live with the above *could be improved* ?

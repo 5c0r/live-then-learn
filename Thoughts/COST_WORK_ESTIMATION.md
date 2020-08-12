@@ -10,7 +10,13 @@
 #### About expectation and reality
 - What margin/difference should be expected from both ?
 - What happen if the time took less/more than estimated ?
-- Good software takes time, and good team takes good time to make good software
+- Good software takes time, and good team takes good amount of time to make good software
 - It's important to getting to know many metrics about the team ( strength, weakness, ..avg performance metrics)
 - Don't take the team as manufactoring machines, we are people anyway
-- "Educating clients" might sounds not so good, how about "reaching to a mutual agreement" ? 
+- "Educating clients" might sounds not so good, how about "reaching to a mutual agreement" ?
+
+
+#### Picking the right client
+
+
+#### Firing the wrong client

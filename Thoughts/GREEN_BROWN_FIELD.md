@@ -1,6 +1,6 @@
 "The grass is greener on the other side" - Idiom of the cow
 
-## Green field project
+## Green 
 
 - WAT IS
 
@@ -10,7 +10,10 @@
 
 - 
 
-## Brown field project
+## Brown 
 
+- WHY BROWN USUALLY CONSIDERED BAAD for 
 
-## 
+- When/Who should join a Brown field project 
+
+## Somewhere in between ?

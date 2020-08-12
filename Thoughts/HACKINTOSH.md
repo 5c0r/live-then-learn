@@ -20,3 +20,4 @@ Hackintosh makes you look cool, but not always :D
 - Hackintosh Reddit
 - TonymacX86
 - Ryzentosh for Ryzen users
+- OpenCore (https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
