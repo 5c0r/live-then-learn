@@ -1,0 +1,8 @@
+- https://retireinprogress.com/my-story-chapter-9b-hooli-dark-side-of-a-dream-job/?utm_campaign=firehub&utm_source=firehub.eu&utm_medium=referral
+- https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments
+- https://xkcd.com/2347/
+- https://mozillalifeboat.com/
+- https://www.ilovemdn.org/
+- https://www.sqlite.org/releaselog/3_33_0.htm
+- https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/
+- https://www.collaborativefund.com/blog/expiring-vs-permanent-skills/

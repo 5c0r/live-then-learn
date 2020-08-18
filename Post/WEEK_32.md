@@ -5,4 +5,4 @@ What a fun discussion :P
 - https://castbox.fm/episode/69%3A-Human-Hacker-id1468651-id284437487?country=us
 - https://daedtech.com/software-consulting/
 - https://www.social-engineer.org/social-engineering/the-next-generation-of-hackers/
-- 
+- https://commoncog.com/blog/much-ado-about-the-ooda-loop/
