@@ -6,3 +6,4 @@
 - https://www.sqlite.org/releaselog/3_33_0.htm
 - https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/
 - https://www.collaborativefund.com/blog/expiring-vs-permanent-skills/
+- https://blog.nindalf.com/posts/factorio-and-software-engineering/
