@@ -13,3 +13,5 @@ Trying out Factorio , it's fun. But too time consuming for me :(
 - https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/
 - https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/
 - https://gameprogrammingpatterns.com/event-queue.html
+
+- https://martinfowler.com/articles/is-tdd-dead/ 
