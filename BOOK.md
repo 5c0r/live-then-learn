@@ -34,3 +34,7 @@ TODO: Adding ISBN/Urls
 - Mastery
 - Win Bigly
 - Humans vs Computers
+
+
+## Wish-list
+http://eopl3.com/
