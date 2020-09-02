@@ -15,3 +15,5 @@ Trying out Factorio , it's fun. But too time consuming for me :(
 - https://gameprogrammingpatterns.com/event-queue.html
 
 - https://martinfowler.com/articles/is-tdd-dead/ 
+- https://stratechery.com/2020/rethinking-the-app-store/
+- https://support.google.com/mail/answer/7436150?hl=en

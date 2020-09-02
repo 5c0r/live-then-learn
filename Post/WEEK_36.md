@@ -16,3 +16,6 @@ Two more weeks ;) Yay
 - https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones
 - https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf
 - https://seths.blog/2011/05/hard-work-vs-long-work/
+- https://blog.codonomics.com/2020/08/multi-tenant-architectures.html
+- https://thebuild.com/presentations/pgconfeu-2016-securing-postgresql.pdf
+- https://github.com/pubkey/rxdb

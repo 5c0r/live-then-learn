@@ -5,3 +5,7 @@
 
 
 ## Software architecture
+
+
+
+https://nocomplexity.com/documents/arplaybook/introduction.html
