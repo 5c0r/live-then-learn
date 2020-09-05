@@ -19,3 +19,8 @@ Two more weeks ;) Yay
 - https://blog.codonomics.com/2020/08/multi-tenant-architectures.html
 - https://thebuild.com/presentations/pgconfeu-2016-securing-postgresql.pdf
 - https://github.com/pubkey/rxdb
+
+- https://haim.dev/posts/2020-07-28-dual-monitor-kvm/
+- http://highscalability.com/blog/2020/9/1/mysql-on-azure-performance-benchmark-scalegrid-vs-azure-data.html
+- http://highscalability.com/blog/2020/7/31/stuff-the-internet-says-on-scalability-for-july-31st-2020.html
+- https://jaredpalmer.com/blog/react-is-becoming-a-black-box
