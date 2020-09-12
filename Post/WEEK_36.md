@@ -24,4 +24,3 @@ Two more weeks ;) Yay
 - http://highscalability.com/blog/2020/9/1/mysql-on-azure-performance-benchmark-scalegrid-vs-azure-data.html
 - http://highscalability.com/blog/2020/7/31/stuff-the-internet-says-on-scalability-for-july-31st-2020.html
 - https://jaredpalmer.com/blog/react-is-becoming-a-black-box
-- 
