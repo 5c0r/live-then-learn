@@ -18,4 +18,4 @@ TODO: URLs!
 - Git
 - Sublime Merge!
 - OBS
--
+- WSL2 -> Linux
