@@ -1,4 +1,1 @@
-- build-essential
-- git(-all)?
-- npx  instead of (node/npm)
-- homebrew (yay!) -> python3-pip ->
+-> Go to my install_scripts/all.sh for reference :)
