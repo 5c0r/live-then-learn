@@ -7,4 +7,4 @@
 - Thinking in terms of un/managed package , migration scripts , custom settings
 - Too many *terminilogy* that you need to get a hang of in the first days/months ,
 - Something funny with DateTime , now() , today() , time query with SOQL willing to cover this in more depth , and how I (temporarily) took care of this in .NET ( or in any different)
--
+- I am not having Good impression of Native sf apps , but I need to know more about Connected SF App
