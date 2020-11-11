@@ -8,8 +8,8 @@ TODO: No comparision againts NoSQL ( meaningless )
 ##### Decision Matrix ( no order specified )
 - ACID compliance ?
 - Feature ( i.e: function, trigger, alert )
-- Performance 
-- Security 
+- Performance
+- Security
 - Language/Library support
 - Consistency
 - Availability
@@ -20,7 +20,7 @@ TODO: No comparision againts NoSQL ( meaningless )
 - Transaction support , and what at level ?
 - Does it support required data structure/type ? ( jsonb, blob )
 - Supported in Cloud platforms ( Azure, AWS, GCP, Lidl =)) )  // Cloud or Self-hosted ?
-- Open Source 
+- Open Source
 
 - TODO: Trade-offs ( costs on deploy, storage and maintenance, learning curve,  )
 
@@ -28,9 +28,10 @@ TODO: No comparision againts NoSQL ( meaningless )
 ##### Collect PostgreSQL good use cases here
 
 #### Diving into PostgreSQL
-- 
+-
 
 
 #### Further reading
 - [The Art of PostgreSQL](https://theartofpostgresql.com/)
 - [PostgreSQL is Battle-tested since 2008 ?](https://www.postgresql.org/message-id/b42b73150801211256j333b2daciee9bb0de8a0e57af@mail.gmail.com)
+- [https://pgstats.dev/] Observability cheatsheet
