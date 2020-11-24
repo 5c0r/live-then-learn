@@ -3,6 +3,9 @@
 [In summary](https://www.monkeyuser.com/2017/programming-languages-as-humans/)
 
 
+https://panelbear.com/blog/tech-stack/
+This whole stack looks impressive
+
 ## What I would use to build a next SaaS , along with
 
 #### .NET

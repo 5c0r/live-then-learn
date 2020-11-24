@@ -3,7 +3,7 @@ This repo contains :
 - 1% of intelligence
 - 99% of other things, divided equally : pun, bad joke, insight, observation, seriousness, seniority, sympathy, empathy..
 
-If you are my coworker/ex-coworker/friend, I hope that this will clarify some of the "Whys" of "Why it was done like that" 
+If you are my coworker/ex-coworker/friend, I hope that this will clarify some of the "Whys" of "Why it was done like that"
 
 If you are recruiters,or someone who will be interviewing me in the future, someone who would interested in hiring me, up to be my future colleagues, I hope this would save both of us perhaps some time, so we could both spend our time on better things :)
 
@@ -24,4 +24,6 @@ I started this before I even find this #100DaysToOffload . Lucky me xD !
 - Legal concerns ? Perhaps sending an email to me :) . The conversation later will be uploaded here, GDPR applied (personal/company information)
 
 ## Updated 30.05.2020
-- This project is now [Obsidian](https://obsidian.md/) friendly. Feel free to open the project and use Obsidian , with the graph view, you can see quite some related stuff :)
+- This project is now [Obsidian](https://obsidian.md/) friendly. Feel free to open the project and use Obsidian , with the graph view, you can see quite some related stuff :) [Updated: Long time not using Obsidian...]
+
+- Trying out Anki flashcards to keep some take-aways from books
