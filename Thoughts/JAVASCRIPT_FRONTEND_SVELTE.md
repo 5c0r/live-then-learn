@@ -1,9 +1,9 @@
-## SvelteJS is the new black 
+## SvelteJS is the new black
 - http://thecodelesscode.com/case/183
 
 
 ##### What differences which Svelte has over other front-end frameworks ?
-- Svelte compiles your component into plain [[JAVASCRIPT]], while other framework would bring the whole runtime executed in your browser 
+- Svelte compiles your component into plain [[JAVASCRIPT]], while other framework would bring the whole runtime executed in your browser
 => Smaller "size" , but "better"
 
 
@@ -18,9 +18,11 @@
 - Support for bundling/developing with TypeScript is a WIP . I hope it will be available in the roadmap ['soon-ish'](https://github.com/sveltejs/svelte/issues/4816) (i.e: HMR.. and VSCode) => NO, Svelte <3 TypeScript (https://svelte.dev/blog/svelte-and-typescript)
 - It is basically not backed (in terms of finance and contribution) by FAANG , unlike other popular UI frameworks
 - Hopefully Svelte 3.x would be more stable
-- SSR is there, but still a WIP 
+- SSR is there, but still a WIP
 
-##### Contributing to Svelte and seeing it fly ? Why not :) 
+December 2020: Svelte with Snowpack !
+
+##### Contributing to Svelte and seeing it fly ? Why not :)
 A step-by-step approach
 - TypeScript
 - Understanding how Svelte compiler works under-the-hood

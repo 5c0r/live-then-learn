@@ -31,6 +31,7 @@ One of my colleague asked me how did I approach C# from the start. Honestly, it'
 [ ] Testing ( Either MSTest or xUnit/xBehave, FluentAssertion )
 [ ] Make your own Starter kit for specific project, don't be too rely on dotnet new
 [ ] Write your own Code Analyzer with Roslyn
+[ ] Game Programming in .NET with Unity/GoDot engine
 
 
 ## Why .NET Core was so "Bad" and now it is so Awesome ?
@@ -43,12 +44,6 @@ But now with the introduction of .NET 5 , the community could be happier ,
 
 
 Disclaimer: By the time of writing this, .NET 5 is now almost in action. The future of .NET couldn't be brighter
-
-
-
-## (Open-sourced) .NET is awesome
--
-
 
 ## References
 - https://dotnetfoundation.org/
