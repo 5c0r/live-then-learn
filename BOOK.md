@@ -2,8 +2,8 @@ TODO: Adding ISBN/Urls
 
 ### Tech
 
-- Domain Driven Design 
-- Domain Driven Design distilled 
+- Domain Driven Design
+- Domain Driven Design distilled
 - Implementing DDD
 - Reactive Messaging Patterns
 - Akka.net in Action
@@ -34,6 +34,7 @@ TODO: Adding ISBN/Urls
 - Mastery
 - Win Bigly
 - Humans vs Computers
+- The Psychopath Code - Pieter Hintjens
 
 
 ## Wish-list
