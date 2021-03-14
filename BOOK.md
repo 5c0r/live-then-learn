@@ -35,6 +35,7 @@ TODO: Adding ISBN/Urls
 - Win Bigly
 - Humans vs Computers
 - The Psychopath Code - Pieter Hintjens
+- Bad Blood
 
 
 ## Wish-list

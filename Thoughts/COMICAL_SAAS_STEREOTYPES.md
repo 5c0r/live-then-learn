@@ -1,5 +1,5 @@
 ## Comical SASS stereotypes
-Hopefully I can "integrate" these into a more meaningful comics :) 
+Hopefully I can "integrate" these into a more meaningful comics :)
 
 #### The Kompany
 TODO
@@ -11,7 +11,7 @@ TODO
 A mediocre developer who always dreamt of leading a team to 'success'. When the team only has 1 person, it is always expected that he could lead himself , but things did not end well for anyone. Any company had a hard time taking care of his drama..
 
 #### That Front-end Guy
-- Having a decent upto limited knowledge about programming 
+- Having a decent upto limited knowledge about programming
 - Having a great portfolio, outlook and good negotiation skill
 - Alpha-male. Still having a hard-time convincing his ex-girlfriend that he does full-stack development
 - Loves photography , bought a ton of unused cameras
@@ -75,7 +75,7 @@ Until then, we never know if he really gives a shit..
 
 #### The Recruiter
 
-"We are hiring, and we are always hiring !" 
+"We are hiring, and we are always hiring !"
 
 Loves to recruit (and firing) people, also shit-posting on LinkedIn about how great the company is.
 
@@ -85,9 +85,9 @@ Luckily IdGalf is the brilliant guy, only letting the Truthseeker to join the te
 
 #### The CAPtain
 
-"Two phased-commit does not work" 
+"Two phased-commit does not work"
 
-Had a great knowledge on different types of databases, he decided to make his own Lake Department, to store The Company's data in a secured, reliable databases. Somehow he is possessed with PostgreSQL, a well battle-tested database (US DOD uses it, duh!) 
+Had a great knowledge on different types of databases, he decided to make his own Lake Department, to store The Company's data in a secured, reliable databases. Somehow he is possessed with PostgreSQL, a well battle-tested database (US DOD uses it, duh!)
 
 Everyone called him the "CAPtain" due to his work ethic. He always get shits done at the end of the day
 
@@ -105,19 +105,28 @@ Knowing him for so long ,Idgalf prefer having him decide on what database they s
 
 #### The Artist
 - Loves drawing and sketching and 'cute but deadly' design
-- Emotional-first person, but enough empathy to create a thorough UI/UX 
+- Emotional-first person, but enough empathy to create a thorough UI/UX
 - Customers, Marketer love how beautiful and intuitive the UI was. Unfortunately this makes every developers hate him, making the UI become the most complex state machine ever ( Ever heard of State Management ?)
 
 #### The Co-Founder
 "I should be the motherf**cking founder"
 
-Wanted of money, fame and power, without any knowledge 
+Wanted of money, fame and power, without any knowledge
+TODOist =))))) ( RAN OUT OF IDEAS, WAT !)
 
 
 #### The startup-founder
 
-"I will grant you this, IF...." 
+"I will grant you this, IF...."
 
 Filled with ideas and ambition, he decided that we need to make a future startup. With "ML using Python" on his desk, he can do everything. Bootstrapped a talented team, he found his idea is the 'real-deal'
 
 Sadly, everyone ( except the Lead ) left him because of his bad leadership. With 2M euros in company evaluation, his 'product' never got released.
+
+
+#### The Lawly
+"When relationships collapse, let's prepare for litigation"
+
+
+#### Pegacy
+He were part of the legacy , but that does not mean the legacy lives in him. Being a loyal engineer in a strong and prosper company
