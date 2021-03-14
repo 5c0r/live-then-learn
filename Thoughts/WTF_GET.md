@@ -36,7 +36,7 @@ IMHO, while I don't think AppGet did a good job in marketing or making things wo
 TLDR:
 - Winget is not as good as other open-source package manager, in terms of versability and flexibility in package support ?
 - All Windows open-source package manager authors deserve a right apology , why not working with them in the first place ( because of the LAW?)
-- Winget should be Chocolatey/Sqoop 2.0 , not the other way around . Powershell should be the core part in Winget as .exe installation sucks
+- Winget should be Chocolatey/Sqoop 2.0 , not the other way around . Powershell should be the core part in Winget as .exe installation sucks ( for the devs )
 - Use Linux maybe if nothing really holds you back..
 
 
