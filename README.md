@@ -13,8 +13,7 @@ I started this before I even find this #100DaysToOffload . Lucky me xD !
 ## Getting started
 - [Books that I have read , and may you should too!](https://github.com/5c0r/live-then-learn/blob/master/BOOK.md)
 - [That Temple of Thought](https://github.com/5c0r/live-then-learn/blob/master/Thoughts/)
-- [I am learning toward building any software](https://github.com/5c0r/live-then-learn/blob/master/Moot/)
-- [Stupidly innovative business/software ideas](https://github.com/5c0r/live-then-learn/blob/master/Bad_ideas/)
+- [Stupidly innovative business/software ideas](https://github.com/5c0r/live-then-learn/blob/master/Moot/)
 - [Too busy to read ? There are some useful chapters](https://github.com/5c0r/live-then-learn/blob/master/Book_skimmer/)
 
 
