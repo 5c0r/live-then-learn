@@ -13,8 +13,8 @@ Through the experience , there are many "patterns" that are happening:
 - Seeking validation and approval , "respect" only "managers"
 - Google is truly the best friend, where searching and judgement surpassed thorough evaluation
 
-- Sticking with "comrades" and "managers" , while patronizing others ( maybe a few more times before I can really say anything ;) )
--
+- Sticking with "comrades" and "managers" while patronizing others ( maybe a few more times before I can really say anything ;) )
+- If they have blog post , usually it would come with hacks and best practices ( Now I remember why I fucking hate best practices that goes null-where)
 
 
 TODO: New post. Why I enjoy having Finns , as colleagues , instead ? Why Finns are so good at making software "happens" ?
@@ -28,13 +28,19 @@ Pt 1: From "farmers" to "developers" . Welcome to the "Green-ish IT-industry"
 Pt 3: This is better deal, believe me, we do it "cheap, very cheap" =))) - Consultancy (anywhere), in short
 
 Pt 4: Why there's still no Vietnamese CEO, CTO, CXO in SV ?  And do they represent the "majority" ?
+Or actually there is CTO , Uber CTO IIRC
 
 Pt 5: How can we (Vietnamese) become better at what we do ? And what could we "avoid" to be better ?
 
 Pt 6: The world is 4.0 , are we 4.0-compatible ?
 
-Pt7: We Vietnamese are just a bunch of selfish , self-entitled devs . And what we can do about it ?
+Pt7: We Vietnamese are just a bunch of selfish , self-entitled devs. And what we can do about it ?
+
+Pt8: Are we going to be the next SV ? With the rise of bootcamps ?
 
 
 But overall , are these cultural-problem or just stereotype ? What can employer do to make sure that we won't be "just like that" ?
 
+
+References:
+- The World is Flat
