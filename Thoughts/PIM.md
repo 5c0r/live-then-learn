@@ -11,20 +11,21 @@ TODO: Short-introduction, or maybe look at the feature offering listing..
 - The way data is structure is good , `Link` is quite a nice terminology to structure your data with relations . `CVL` is a remarkable feature to handle enum
 - Having both Cloud (iPMC) and on-premise version. On-premise version is only supported for security/showstopper bugs, it is recommended to upgrade and start new implementation with iPMC anyway.
 - Support team, quite responsive
-- Multiple type of extensions : Listeners, Middleware, Print/Formatter (to InDesign) 
+- Multiple type of extensions : Listeners, Middleware, Print/Formatter (to InDesign)
 - Good and various extensions to Import from/Export to different data sources (i.e:CMS, SAP, ERP, DAM, E-commerce...)
 - InDesign extensions is well developed
 - Web version is support on all platforms and most modern browsers ( IE ?)
 
 ##### Could be improved
-- Upgrading from InRiver Server 5 -> 6 -> iPMC is not trivial
-- The UI side, both iPMC and Rich Client could be further improved , it is built on *AngularJS*
+- Upgrading from InRiver Server 5 -> 6 -> iPMC is not trivial/straightforward
+- The UI side, both iPMC and Rich Client could be further improved , it is built on *AngularJS*( old-technology ) . But UX is bad
 - Desktop client (RichClient) does not support MacOS , while Web client is not really extendable
-- Feature requests are not always feasible, not everything is 'open-source' (i.e: documentations are closed under a ZenDesk page) , community are quite small
+- Feature requests are not always feasible, not everything is 'open-source' (i.e: documentations are closed under a ZenDesk page) , community are quite small and not so very active.
+-> At this part, I personally think this is a very old European software vendor which does not really community-driven
 - Changelogs, even old/obsolete installation package should be more accessible, even when the version is no longer supported
 - There is no `soft delete` feature , this is likely a small red flag IMNSHO. If your stuffs are gone, they are gone, this might cause problem is outbound extensions is broken or somehow failed to produced deleted output
 - Support will throw in your face iPMC recommendation if you are not using it, for any non-related issue, not sure if that's ZenDesk feature ?
-- Deploying extensions is tedious
+- Deploying extensions is tedious, there should be a better way for *integration*
 - Inbound/outbound extensions implementation are ~very very~ questionable. IMNSHO, making use of REST/Remote API with (Azure/AWS) Functions should be a better approach, any extensions should be made as *adapter* (Fire-and-forget to Functions). This will not cause any performance issues, but this means :
 	-	More $$ for customers and development effort
 	-	I see that 80% of the case that we don't heavily needs InRiver Remoting API as REST API is getting better

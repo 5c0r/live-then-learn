@@ -13,6 +13,7 @@
 - Blazing fast
 - Good way to build embedded UI built with [[JAVASCRIPT]]
 - Hate React/Angular/people trying to say whichever is better, but would not want to learn Vue
+- SvelteKit is coming to 1.0 very soon! And I am excited
 
 #####  But I will not start using Svelte yet . Why ?
 - Support for bundling/developing with TypeScript is a WIP . I hope it will be available in the roadmap ['soon-ish'](https://github.com/sveltejs/svelte/issues/4816) (i.e: HMR.. and VSCode) => NO, Svelte <3 TypeScript (https://svelte.dev/blog/svelte-and-typescript)
