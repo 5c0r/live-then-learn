@@ -3,6 +3,8 @@
 
 ## ZeroMQ ( Should we even put it here ?)
 
+## Amaz SQS
+
 
 ## Apache Kafka
 
@@ -18,3 +20,4 @@
 - Latency— What is the end-to-end latency?
 - Supported programming languages— You probably should pick one that supports a variety of programming languages.
 - Competing consumers— Does the message broker support competing consumers?
+- DLQ ?
