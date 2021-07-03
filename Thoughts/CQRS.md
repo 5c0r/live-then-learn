@@ -13,3 +13,5 @@ Maybe a simple GitHub repo
 - https://martinfowler.com/bliki/CQRS.html
 - https://microservices.io/patterns/data/cqrs.html
 - https://dzone.com/articles/microservices-with-cqrs-and-event-sourcing
+
+- TODO: CQRS with Kafka Streams

@@ -2,15 +2,15 @@
 
 
 #### What should you need to know
-##### Domain Driven Design  
+##### Domain Driven Design
 Domain-Driven Design is a good start You would need to have a good understand on Domain Knowledge
 
-##### CQRS 
-Somehow this is a pattern that I quite like working with. Your read and write concerns are separated, this might be difficult to handled on the UI side, but I think a few HTTP requests for a workflow would not hurt 
+##### CQRS
+Somehow this is a pattern that I quite like working with. Your read and write concerns are separated, this might be difficult to handled on the UI side, but I think a few HTTP requests for a workflow would not hurt
 
 ##### Fundamental of Event Sourcing
 
-#### What ES could help you 
+#### What ES could help you
 - Building the next microservices ?
 
 
@@ -26,7 +26,7 @@ Somehow this is a pattern that I quite like working with. Your read and write co
 TODO-TODO
 - DDD + CQRS + ES is a good combo
 
-#### References 
+#### References
 - https://microservices.io/patterns/data/event-sourcing.html
 - https://martinfowler.com/eaaDev/EventSourcing.html
 - https://eventuate.io/whyeventsourcing.html
@@ -35,3 +35,6 @@ TODO-TODO
 - https://www.youtube.com/watch?v=PusBGdjgd3U
 - https://eventmodeling.org/
 - Shameless plug here: https://www.theseus.fi/handle/10024/160444
+
+
+#### Learn MOAR
