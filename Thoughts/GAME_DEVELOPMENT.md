@@ -2,11 +2,11 @@
 
 #### Choosing a Programming Language to learn
 
-Starting with Game Development could be a challenge, as choosing a language to learn. 
+Starting with Game Development could be a challenge, as choosing a language to learn.
 
 ##### C/C++
 
-Wait what, isn't nobody hiring you with this programming language ? 
+Wait what, isn't nobody hiring you with this programming language ?
 
 Usually it is not much about the language that we learn to do something, but I believe language is a tool to achieve things, the things should be learnt is control flow and basics API. Modern/Popular game engine should have more than good documentation to get you started
 
@@ -23,11 +23,11 @@ A programming language from Microsoft ecosystem. The language itself is more "op
 ##### JavaScript
 Sadly I don't have any knowledge in this
 
-#### Game Engines that I know of 
+#### Game Engines that I know of
 - Unity: Finland most favorite engine ?
-- Unreal 
+- Unreal
 - Lumberyard
-- Godot: You can write either Go/C# 
+- Godot: You can write either Go/C#
 - [Insert any JavaScript game engine here] - TODO
 
 #### Are you sure about working as a Game Developer
@@ -41,4 +41,5 @@ Jokes aside, I don't really know. Perhaps talking to an experience one would hel
 - Making an MMO ? Cross-platform MMO ?
 
 #### In-depth ( TODO )
-- 
+- Networking
+- Build your own network library using Akka

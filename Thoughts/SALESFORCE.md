@@ -38,3 +38,7 @@ I am trying to convey my ideas not also as Salesforce App Developer, but also as
 - Where and When Salesforce will deploy the introduced changes ?
 -- Quarterly basis ?
 -- Region-by-region ?
+
+
+- And one day , would Salesforce stab-you-in-the-back ( as a App partner ? )
+

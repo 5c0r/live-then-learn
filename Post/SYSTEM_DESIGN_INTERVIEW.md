@@ -13,8 +13,9 @@
 - If you know the *word* , just say it , don't be roundabout like me ( because I don't really know the terminology/word , or I know but not sure if it is the right one ...)
 - Try to have everything in place before moving on (i.e: UI , services, databases schema design)
 - Remember on how are you going connect them , and later on splitting them
+- If you are not good at visualizing everything in your head, try to learn to draw them, there should be many different tools that could help your thinking ( draw.io , excalidraw..)
 
-## Questions you SHOULD ask
+## Questions you SHOULD ask / COULD DO
 - What are the assumptions ? What has been put in places ?
 - Functional ( what should it do ? ) and non-Functional requirements ( performance , reliability , security...)
 
