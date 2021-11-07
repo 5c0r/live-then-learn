@@ -45,7 +45,7 @@ How about the other candidates ? He went to Digia anyway (@July 2020?) =))) ?
 
 ### Food delivery 'industries'
 - Foodora: Ghosted
-- Wolt: Not good enough at React and its ecosystem, or they accidentally hired 10 or few drame queens from a "Fashion company". Hopefully the time is different,
+- Wolt: Not good enough at React and its ecosystem, or they accidentally hired 10 or few drame queens from a "Fashion company". Hopefully the time is different
 - But will I be joining them in the future so I could work with drama queens/kings ? Nope in 10^6 years ?
 
 ### Zalando ( 2018 )

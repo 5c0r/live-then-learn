@@ -14,10 +14,11 @@ Put weight for each one, and see if it would be a yes or no for you.
 - "Startup mode" or "Corpo mode" , hierachy and such
 - "Agile" or "Not Agile" , SAFE (-my ass)
 - Is the Tech Stack sound good ( comfortable , nice , non-comfortable but approachable..) ?
-- Were you "benched" for quite some time ?
+- Were you "benched" for quite some time ? ( This is likely to be mostly relevant on "consultancy" firms rather than a product firm, but you get the idea)
 - Good sector/ Bad Sector . If it's baaad , can you "afford" it ?
 - "Mercenary" or "Missionary" (not as in the position) ?
 - How long did it took for a "counter-offer" ?
+- Good Conway , or bad Conway ? (i.e: How are communication between teams/services are done/held ? )
 
 ## Colleagues
 - Is your colleagues helping / not-helping / keeping things move forward ?
@@ -29,9 +30,9 @@ Put weight for each one, and see if it would be a yes or no for you.
 - Can you come to an agreement with someone ?
 (i.e: Does your "senior" comes cry to to "mama" when he/she is wrong in an argument ?)
 - Is your colleagues incompetent ( in what sense ) ? Or are you ?
-- Should any (in-)competence affects the performance of the team ?
+- Should any (in-)competence/miscommunication affects the performance of the team ?
 - Does being straight-and-honest helps ?
-
+- Does open-for-help helps ?
 Imagine of a team having to push a big Boulder ? Who would initiate the pushing ? Who would provide idea how it could be pushed ? Who would not pushing it ? Who would push it alone and silently, because it was a good sport , or "good for him/her" ? Who would make the Boulder pushed/ not pushed at all ? Who would like to push, but don't know how to push it ask for help ? Ask urself, and will be Boulder ever be pushed, at all ?
 
 

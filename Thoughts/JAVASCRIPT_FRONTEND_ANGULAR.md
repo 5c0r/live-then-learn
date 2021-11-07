@@ -66,6 +66,10 @@ Do not ever extends any Angular component, your component should compose reusabl
 - Breaking changes are well thought and well made
 - No left-pad snafu
 
+11.07.2021
+Seems like Angular has reached version 13 with many improvements in tooling and bundling. Let's hope someday we could have a 2kb Hello World :)
+
+
 ###### Cons
 - AngularJS developers were angry that there's no true path to upgrade to Angular
 - The learning curve is quite steep, many fundamentals things need to be learn beforehand (i.e: Dependency Injection, Reactive Programming, modules )
