@@ -29,6 +29,8 @@ One of my colleague asked me how did I approach C# from the start. Honestly, it'
 [ ] Dependency Injection
 [ ] Logging ( Serilog, plz )
 [ ] Testing ( Either MSTest or xUnit/xBehave, FluentAssertion )
+
+- Stretch goals
 [ ] Make your own Starter kit for specific project, don't be too rely on dotnet new
 [ ] Write your own Code Analyzer with Roslyn
 [ ] Game Programming in .NET with Unity/GoDot engine
@@ -44,7 +46,8 @@ But now with the introduction of .NET 5 , the community could be happier ,
 
 
 Disclaimer: By the time of writing this, .NET 5 is now almost in action. The future of .NET couldn't be brighter
+01.12.2021: .NET 6 LTS is out, with a lot of performance improvements and unifying the .NET ecosystem altogether :tada:
 
 ## References
 - https://dotnetfoundation.org/
--
+- https://dotnet.microsoft.com/

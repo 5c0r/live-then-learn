@@ -22,6 +22,7 @@
 - SSR is there, but still a WIP
 
 December 2020: Svelte with Snowpack !
+October 2021: Svelte author has now been hired to work at Vercel! Hopefully Svelte will be a better solutions than *React* , anytime soon 
 
 ##### Contributing to Svelte and seeing it fly ? Why not :)
 A step-by-step approach

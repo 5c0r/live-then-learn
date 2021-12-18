@@ -30,6 +30,7 @@ A very good scaffolding tool for your project. Unless you are a hardcore webpack
 ##### Later fundamentals to learn
 - Hooks, Context API
 - React Suspense (https://reactjs.org/docs/concurrent-mode-suspense.html)
+- Concurrent Mode
 
 ##### Good to come back later
 - Babel config
