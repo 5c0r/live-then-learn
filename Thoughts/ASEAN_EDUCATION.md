@@ -15,3 +15,7 @@ This is not a post about shitting Vietnamese/Asean education system. But about m
 
 
 ## The rise of private/international schools ?
+
+
+## 
+https://perell.com/essay/the-price-of-discipline/
