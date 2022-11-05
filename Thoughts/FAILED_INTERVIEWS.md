@@ -12,6 +12,9 @@ https://twitter.com/mxcl/status/608682016205344768?ref_src=twsrc%5Etfw
 - Not being able to display the viable/rare skills ( What are these anyway ?)
 - Not the whiteboard you want, but the whiteboard they need
 - Finnish-language proficiency , usually apply to where most customers base are Finnish ( where's the 6% magic numbers come from ?)
+- Litmus tests / Live coding interview
+-- Somehow some companies do this way better than any others
+-- If you want some FAANG boys/girls, go and grind Leetcode, fuck you
 - TODO:
 
 ## List of companies that I got rejected
@@ -65,13 +68,29 @@ But who would like to join Zalando since 2017 anyway ? Stories will remain....st
 - Next interview round is more technical , many question about OOP and Algorithm -> Unfortunately the work at that time we don't really use these intensively. I realized that I do have trouble explaning things to them
 => Failed miserably, off course :D
 
+
+### Virta ( Energia tiimi )
+- Not excited, but more like...weird 
+- If there's already a home assignment, and no follow up question on the assignment. Sounds like a red flag to me, but I'm not a FAANG boy to judge ;)
+- The interview went very unstructured and time-consumed, not sure who's leading the meeting or not
+
+### Utopian Music
+- Which pos: EM
+- Not enuf human management
+
+### Veri
+- Likely one of the most positive so far
+- Straightforward home assignment, many stuff uncovered during it
+- Long final interview, but necessary 
+
+
 ### Ghosted ( :ghost: deserve having its own place ! )
 - Unity : Had the first interviews, never heard back
 - Futurice ( ghosted once, rejected twice :(  ) => Somehow
 - Vincit
 - Nitor
 
-## I turned down the offer, stopped interviewing
+## I turned down the offer/stopped interviewing
 
 ### Solinor
 - First and third interview went well
@@ -83,6 +102,15 @@ But who would like to join Zalando since 2017 anyway ? Stories will remain....st
 - My PHP skill was...baaad ? ( Shame on me, I implemented them as Unit Tests :( )
 - Now they are suggesting Javascript Developer position , and ...maybe not this time. If you are from Supermetrics and reading this, I would say while I can 70% pass the coding tests, I don't feel personally happy working with JavaScript , at least until JS-people know how to behave :)
 
-This was written in 28.07.2020. Last updated 26.10.2020
+### Meeting package
+- No code assignment
+- The 2nd interview was likely a litmus test, but that's okay
+- The 3rd is good as a conversation, and that's good
+- Low to no balls, if one cannot fulfill it in the beginning, say no
+
+
+
+
+This was written in 28.07.2020. Last updated 05.11.2022
 
 

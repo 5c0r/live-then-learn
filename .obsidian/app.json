@@ -15,7 +15,6 @@
   "isRightSidedockCollapsed": true,
   "lastOpenSidebarTab": "Search in files",
   "lastOpenRightSidedockTab": "Tags",
-  "theme": "obsidian",
   "workspaceLayout": {
     "id": "a7cb32d21a17276e",
     "type": "split",
@@ -50,5 +49,6 @@
     "Book_skimmer/README.md"
   ],
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "livePreview": false
 }
