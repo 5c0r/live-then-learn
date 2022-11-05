@@ -14,6 +14,9 @@ TODO: Adding ISBN/Urls
 - Software Architecture for Developers
 - Release It!
 - Design It! - From Programmer to Software Architect
+- Team topologies
+- Building Microservices - Sam Newman
+
 
 ### Non-Tech
 
