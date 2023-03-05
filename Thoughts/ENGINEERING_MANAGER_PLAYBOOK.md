@@ -1,7 +1,8 @@
 ### Forewords
-First of all, thank you for coming here. I know it's not easy for everyone to have me as your EM/TPM, but I guess we don't have any better choice for the time being :) 
+First of all, thank you for coming here. I know it's not easy nor pleasant for everyone to have me as the EM/TPM, but I guess we don't have any better choice for the time being :) 
 If you are here, maybe you are /or about to be working with me, either as direct reports or not. I'm very appreciated that
-And remember, you are not and will never be my subordinate. I am more or less being here to serve you and the team, and then the business, not the other way around
+And remember, you are always my colleagues, not and will never be my subordinate. 
+I am more or less being here to serve you and the team, and then the business, not the other way around
 
 
 ## FORD - Few things about me
@@ -9,7 +10,7 @@ And remember, you are not and will never be my subordinate. I am more or less be
 - Occupation: Anything that I do right now, I would like to contribute for better good of team, company, then society.
 - Study: I am currently studing Master in Medical Technologies.
 - Recreation: I like LEGO since I was a kid. And recently GUNPLA. Musical-wise, rap and recently phonk and lo-fi.
-- Dreams: A farm to make your own food, and an orphanage. 
+- Dreams: A farm to make your own food, and an orphanage. A place where next generation is better than previous/current one.
 
 ## Principles:
 - No personal/project-related/pet agenda - Nada I will gain, FYI
@@ -41,7 +42,7 @@ My goal is to keep everyone with least meeting as possible, I'm aiming about < 6
 6. I do like to write appreciation post in Slack/Bi-weekly/1-1. Tell me if it's okay to write it, I do (want everyone to) appreciate your work
 7. I'm happy to talk about random things, as long as it does get us to the right path/vibes
 8. Your complaints about company policies, principles or individuals will always stay with me.
-9. In case your ideas/complaints are 'off-track', I will adjust accordingly and try to explain things as much as possible as how I see it so we could reach an consensus, I can assure you I will never use it againts you in anyway (i.e: Performance Reviews, Upcoming Promotions, Team Transition..) - unlike my ~~previous~ bosses
+9. In case your ideas/complaints are 'off-track', I will adjust accordingly and try to explain things as much as possible as how I see it so we could reach an consensus, I can assure you I will never use it againts you in anyway (i.e: Performance Reviews, Upcoming Promotions, Team Transition..) 
 10. I'd recommend skip-level meeting if you think that I am not helping you. Then a 1-1-1 for clarity.
 
 
