@@ -77,6 +77,7 @@ But who would like to join Zalando since 2017 anyway ? Stories will remain....st
 ### Utopian Music
 - Which pos: EM
 - Not enuf human management
+- Internal "Restructure"
 
 ### Veri
 - Likely one of the most positive so far
@@ -90,6 +91,17 @@ But who would like to join Zalando since 2017 anyway ? Stories will remain....st
 - Vincit
 - Nitor
 
+
+### GoTo
+- Nope
+
+### HoxHunt
+- Position: EM
+- Positive
+- Hiring Freeze as of beginning of 2023
+
+### 
+
 ## I turned down the offer/stopped interviewing
 
 ### Solinor
@@ -102,11 +114,20 @@ But who would like to join Zalando since 2017 anyway ? Stories will remain....st
 - My PHP skill was...baaad ? ( Shame on me, I implemented them as Unit Tests :( )
 - Now they are suggesting Javascript Developer position , and ...maybe not this time. If you are from Supermetrics and reading this, I would say while I can 70% pass the coding tests, I don't feel personally happy working with JavaScript , at least until JS-people know how to behave :)
 
-### Meeting package
+### MeetingPackage
 - No code assignment
 - The 2nd interview was likely a litmus test, but that's okay
 - The 3rd is good as a conversation, and that's good
-- Low to no balls, if one cannot fulfill it in the beginning, say no
+- Low to no balls, if one cannot fulfill it in the beginning, just say no
+
+### RakettiTiede
+- Turned down the offer to join Smartly
+- Most positive consultancies companies I have ever applied for, will apply again :)
+
+### ReadPeak
+- Very positive experience
+- Friendly and professional interviewers
+- My current situation did not allow me to move forward
 
 
 

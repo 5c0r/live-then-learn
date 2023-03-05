@@ -26,6 +26,8 @@ Somehow this is a pattern that I quite like working with. Your read and write co
 TODO-TODO
 - DDD + CQRS + ES is a good combo
 
+- Why Kafka-esque thing ?
+
 #### References
 - https://microservices.io/patterns/data/event-sourcing.html
 - https://martinfowler.com/eaaDev/EventSourcing.html
@@ -38,3 +40,4 @@ TODO-TODO
 
 
 #### Learn MOAR
+- https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/ - Keep digging, the related posts are also a very good guides

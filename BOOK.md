@@ -16,6 +16,8 @@ TODO: Adding ISBN/Urls
 - Design It! - From Programmer to Software Architect
 - Team topologies
 - Building Microservices - Sam Newman
+- An Elegant Puzzle - Will Larson ( Mostly comes from his blog posts )
+- Staff Engineer - Will Larson
 
 
 ### Non-Tech
@@ -39,6 +41,7 @@ TODO: Adding ISBN/Urls
 - Humans vs Computers
 - The Psychopath Code - Pieter Hintjens
 - Bad Blood
+
 
 
 ## Wish-list

@@ -75,7 +75,7 @@ There are many reasons of why employers do that. This is going to be my explanat
 -> Okay I get it , you are a big fa(s)t growing startup and you need someone can bluff you way into it. Fine by me, I hope you are happy with your bunch of dramas developer that's going to blow your cash flow
 
 - We are constantly 'hiring', we are targeting this job ads for entry , but likely we won't hire them ?
--> Mita vittua ?
+-> Mita aktuallista vittua ?
 
 - What if we train them ,and then they leave ?
 -> What if they are "shitty" , and they stays in the team and fucks you up ?
